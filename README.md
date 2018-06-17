@@ -1,0 +1,1 @@
+# merge_near_spots
